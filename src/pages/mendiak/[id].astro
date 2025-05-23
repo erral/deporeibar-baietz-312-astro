@@ -1,0 +1,16 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Mountain from '../../components/Mountain';
+
+// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
+// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+export function getStaticPaths() {
+  return [{ params: { id: 'urko' } }, { params: { id: 'kalamua-maaxa' } }];
+}
+
+import mountains from '../../contents';
+
+const mountain = mountains[Astro.params.id];
+---
+
+<Layout> <Mountain mountain={mountain} < Layout /></Layout>
