@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import Mountain from '../../components/Mountain';
+import Leaflet from '../../components/Leaflet.astro';
+import H1 from '../../components/H1';
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
@@ -13,4 +14,59 @@ import mountains from '../../contents';
 const mountain = mountains[Astro.params.id];
 ---
 
-<Layout> <Mountain mountain={mountain} < Layout /></Layout>
+<Layout>
+  <div>
+    <H1>{mountain.title}</H1>
+    <div class="grid md:grid-cols-2">
+      <div class="">
+        <p>
+          <ul>
+            <li>
+              <strong>Altuera:</strong>
+              {mountain.altuera}
+            </li>
+            <li>
+              <strong>Mendizerra:</strong>
+              {mountain.mendizerra}
+            </li>
+            <li>
+              <strong>Sektorea:</strong>
+              {mountain.sektorea}
+            </li>
+          </ul>
+        </p>
+        <Leaflet
+          container="leafletmap"
+          latitude={mountain.lat}
+          longitude={mountain.lon}
+          zoom={11}
+          tileLayer="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          attribution="© <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors"
+          containerstyle="width: 312px; height: 256px"
+        />
+      </div>
+      <div class="">
+        <h2>Igoerak</h2>
+
+        {
+          mountain.items.map((item, key) => {
+            return (
+              <a
+                key={key}
+                href={`/mendiak/${mountain.id}`}
+                class="block max-w-sm p-6 mb-10 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+              >
+                <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                  {item.eguna} {item.creators[0]}
+                </h2>
+                <p class="font-small text-gray-700 dark:text-gray-400">
+                  {item.mendizerra}
+                </p>
+              </a>
+            );
+          })
+        }
+      </div>
+    </div>
+  </div>
+</Layout>
