@@ -1,6 +1,11 @@
+import { sortByAttribute } from '../helpers';
+
 const Mountains = (props) => {
   const { mountains } = props;
-  let mountain_list = Object.values(mountains);
+  let mountain_list = sortByAttribute(
+    Object.values(mountains),
+    (item) => item.title,
+  );
 
   return mountain_list.map((item, key) => {
     return (
