@@ -2,14 +2,25 @@
 import Layout from '../../layouts/Layout.astro';
 import Leaflet from '../../components/Leaflet.astro';
 import H1 from '../../components/H1';
+import Image from '../../components/Image';
+import mountains from '../../contents/mountains';
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 export function getStaticPaths() {
-  return [{ params: { id: 'urko' } }, { params: { id: 'kalamua-maaxa' } }];
+  return Object.keys(mountains).map((key) => {
+    return {
+      params: {
+        id: key,
+      },
+    };
+  });
 }
 
-import mountains from '../../contents';
+import mountains from '../../contents/mountains';
+import climbings from '../../contents/climbings';
+
+import userdata from '../../contents/userdata/index.json';
 
 const mountain = mountains[Astro.params.id];
 ---
@@ -35,34 +46,53 @@ const mountain = mountains[Astro.params.id];
             </li>
           </ul>
         </p>
-        <Leaflet
-          container="leafletmap"
-          latitude={mountain.lat}
-          longitude={mountain.lon}
-          zoom={11}
-          tileLayer="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-          attribution="© <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors"
-          containerstyle="width: 312px; height: 256px"
-        />
+        <div class="w-full mr-5 mt-5">
+          <Leaflet
+            container="leafletmap"
+            latitude={mountain.lat}
+            longitude={mountain.lon}
+            zoom={17}
+            tileLayer="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            attribution="© <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors"
+            containerstyle="width: 95%; height: 256px"
+          />
+        </div>
       </div>
       <div class="">
-        <h2>Igoerak</h2>
-
         {
           mountain.items.map((item, key) => {
             return (
-              <a
+              <div
                 key={key}
-                href={`/mendiak/${mountain.id}`}
-                class="block max-w-sm p-6 mb-10 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+                href={`/mendiak/${mountain.id}/`}
+                class="block p-6 mb-10 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
               >
-                <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  {item.eguna} {item.creators[0]}
-                </h2>
-                <p class="font-small text-gray-700 dark:text-gray-400">
-                  {item.mendizerra}
+                <p class="mb-2 tracking-tight text-gray-900 dark:text-white">
+                  <strong class="font-bold">Eguna:</strong>{' '}
+                  {climbings[item.UID]['egindako_eguna'] ||
+                    climbings[item.UID]['eguna']}
+                  <br />
+                  <strong class="font-bold">Mendizalea:</strong>{' '}
+                  {climbings[item.UID]['mendizalea'] ||
+                    climbings[item.UID]['mendia_igo_duena'] ||
+                    userdata[item.creators[0]]}
+                  {climbings[item.UID]['oharrak'] && (
+                    <span class="block mt-5 text-gray-900 dark:text-white">
+                      {climbings[item.UID]['oharrak']}
+                    </span>
+                  )}
                 </p>
-              </a>
+                <div class="mb-5">
+                  {climbings[item.UID].items.map((item, index) => (
+                    <Image
+                      className="mb-5"
+                      alt={`${mountain.title} mendirako igoeraren argazkia`}
+                      image={item.image}
+                      sizes="50vw"
+                    />
+                  ))}
+                </div>
+              </div>
             );
           })
         }

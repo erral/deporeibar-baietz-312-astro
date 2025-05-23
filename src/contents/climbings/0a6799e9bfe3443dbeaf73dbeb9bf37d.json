@@ -1,0 +1,224 @@
+{
+  "@components": {
+    "actions": {
+      "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/@actions"
+    },
+    "aliases": {
+      "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/@aliases"
+    },
+    "breadcrumbs": {
+      "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/@breadcrumbs"
+    },
+    "contextnavigation": {
+      "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/@contextnavigation"
+    },
+    "navigation": {
+      "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/@navigation"
+    },
+    "navroot": {
+      "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/@navroot"
+    },
+    "types": {
+      "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/@types"
+    },
+    "workflow": {
+      "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/@workflow"
+    }
+  },
+  "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14",
+  "@type": "Igoera",
+  "UID": "0a6799e9bfe3443dbeaf73dbeb9bf37d",
+  "allow_discussion": false,
+  "contributors": [],
+  "created": "2024-09-14T17:21:24+00:00",
+  "creators": ["118293304004553974486"],
+  "description": "",
+  "effective": null,
+  "egindako_eguna": "2024-09-15",
+  "egoera": { "title": "Eginda", "token": "eginda" },
+  "eguna": "2024-09-15",
+  "exclude_from_nav": false,
+  "expires": null,
+  "id": "118293304004553974486-2024-09-14",
+  "is_folderish": true,
+  "items": [
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic",
+      "@type": "Image",
+      "UID": "8d43cb6282b744ac9d1327643b72402d",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-09-15T20:01:16+00:00",
+      "creators": ["118293304004553974486"],
+      "description": "",
+      "effective": null,
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "20240915_145221.heic",
+      "image": {
+        "content-type": "image/jpeg",
+        "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-1800-06ec298bf3cd31cf4055e54b0e94b06e.jpeg",
+        "filename": "20240915_145221.jpg",
+        "height": 4000,
+        "scales": {
+          "great": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-1200-c1b20c0aaa04ef18628085b8a92e98ed.jpeg",
+            "height": 2666,
+            "width": 1200
+          },
+          "huge": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-1600-a1aec0c6b82f450f7134e103add04d3d.jpeg",
+            "height": 3555,
+            "width": 1600
+          },
+          "icon": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-32-c55adb6d86d5dd381bc08e90b71e8e49.jpeg",
+            "height": 32,
+            "width": 14
+          },
+          "large": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-800-098f954aeef90635fefa03c1e67148d8.jpeg",
+            "height": 1777,
+            "width": 800
+          },
+          "larger": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-1000-1460951b4bf9da8729f5e588ae5955a4.jpeg",
+            "height": 2222,
+            "width": 1000
+          },
+          "mini": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-200-150d6835c72c87ca72f69189957648f8.jpeg",
+            "height": 444,
+            "width": 200
+          },
+          "preview": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-400-de03a808313ffdeab12b321352cd1d3f.jpeg",
+            "height": 888,
+            "width": 400
+          },
+          "teaser": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-600-54d35669974ea02d05d45ce998805d79.jpeg",
+            "height": 1333,
+            "width": 600
+          },
+          "thumb": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-128-5296e2c79df48252ce108e940ca9eb35.jpeg",
+            "height": 128,
+            "width": 57
+          },
+          "tile": {
+            "download": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14/20240915_145221.heic/@@images/image-64-d33f070b7efbd5ca1d5b3a782be84e98.jpeg",
+            "height": 64,
+            "width": 28
+          }
+        },
+        "size": 1374437,
+        "width": 1800
+      },
+      "is_folderish": false,
+      "language": "",
+      "layout": "image_view",
+      "lock": {},
+      "modified": "2024-09-16T05:46:41+00:00",
+      "next_item": {},
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana/118293304004553974486-2024-09-14",
+        "@type": "Igoera",
+        "altuera": null,
+        "created": "2024-09-14T17:21:24+00:00",
+        "creators": ["118293304004553974486"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": "2024-09-15",
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": null,
+        "lon": null,
+        "mendizerra": null,
+        "review_state": "published",
+        "sektorea": null,
+        "title": "118293304004553974486 - 2024-09-14",
+        "type_title": "Igoera",
+        "zailtasuna": null
+      },
+      "previous_item": {},
+      "relatedItems": [],
+      "review_state": null,
+      "rights": "",
+      "subjects": [],
+      "title": "20240915_145221.heic",
+      "type_title": "Irudia",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    }
+  ],
+  "items_total": 1,
+  "language": "",
+  "layout": "view",
+  "lock": { "locked": false, "stealable": true },
+  "mendia_igo_duena": "",
+  "mendizaleak": "Oihana eta Fernando",
+  "modified": "2024-09-15T20:04:27+00:00",
+  "next_item": {},
+  "oharrak": "Oihana Lado",
+  "parent": {
+    "@id": "https://312.deporeibar.com/mendiak/tuca-de-posets-punta-de-llardana",
+    "@type": "Mendia",
+    "altuera": 3369,
+    "created": "2024-03-11T21:18:15+00:00",
+    "creators": ["admin"],
+    "description": "",
+    "egoera_igoera": null,
+    "egoera_mendia": null,
+    "eguna": null,
+    "erreserbak": null,
+    "image_field": null,
+    "image_scales": {},
+    "lat": "42.6546292",
+    "lon": "0.4352323",
+    "mendizerra": "Pirinioak",
+    "review_state": "published",
+    "sektorea": "Posets",
+    "title": "Tuca de Posets / Punta de Llardana",
+    "type_title": "Mendia",
+    "zailtasuna": 1
+  },
+  "previous_item": {},
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "118293304004553974486 - 2024-09-14",
+  "type_title": "Igoera",
+  "version": "current",
+  "working_copy": null,
+  "working_copy_of": null
+}

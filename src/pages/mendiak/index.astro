@@ -3,11 +3,11 @@ import Layout from '../../layouts/Layout.astro';
 
 import Mountains from '../../components/Mountains';
 
-import mountains from '../../contents';
+import mountains from '../../contents/mountains';
 ---
 
 <Layout>
-  <div class="grid grid-cols-4">
+  <div class="grid grid-cols-4 gap-3">
     <Mountains mountains={mountains} />
   </div>
 </Layout>
