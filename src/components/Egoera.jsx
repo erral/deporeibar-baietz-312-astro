@@ -7,6 +7,8 @@ const bg_colors = {
     'bg-yellow-100 text-yellow-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-sm dark:bg-yellow-900 dark:text-yellow-300',
   proposatutakoa:
     'bg-pink-100 text-pink-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-sm dark:bg-pink-900 dark:text-pink-300',
+  'egin-gabe':
+    'bg-red-100 text-red-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-sm dark:bg-red-900 dark:text-red-300',
 };
 
 const text_colors = {
@@ -14,18 +16,25 @@ const text_colors = {
 };
 
 const Egoera = (props) => {
-  const { egoera } = props;
+  const { egoera = null, egoera_single = undefined } = props;
 
   return (
     <>
-      <span
-        className={`ml-2 ${bg_colors[egoera.token]} ${
-          text_colors[egoera.token]
-        }`}
-      >
-        {egoera.title}
-      </span>
-      <span class="bg-gren"></span>
+      {egoera ? (
+        <span
+          className={`ml-2 ${bg_colors[egoera.token]} ${
+            text_colors[egoera.token]
+          }`}
+        >
+          {egoera.title}
+        </span>
+      ) : (
+        <span
+          className={`block capitalize mb-5 ${bg_colors[egoera_single]} ${text_colors[egoera_single]}`}
+        >
+          {egoera_single}
+        </span>
+      )}
     </>
   );
 };
