@@ -8,11 +8,53 @@ import '../styles/global.css';
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" href="/cropped-depor-icon-32x32.png" />
     <meta name="generator" content={Astro.generator} />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Baietz 312!</title>
+    <script>
+      // set the target element that will be collapsed or expanded (eg. navbar menu)
+      const $targetEl = document.getElementById('navbar-default');
+
+      // optionally set a trigger element (eg. a button, hamburger icon)
+      const $triggerEl = document.getElementById('main-menu-toggle');
+
+      // optional options with default values and callback functions
+      const options = {
+        onCollapse: () => {
+          console.log('element has been collapsed');
+        },
+        onExpand: () => {
+          console.log('element has been expanded');
+        },
+        onToggle: () => {
+          console.log('element has been toggled');
+        },
+      };
+
+      const instanceOptions = {
+        id: 'navbar-default',
+        override: true,
+      };
+
+      import { Collapse } from 'flowbite';
+
+      /*
+       * $targetEl: required
+       * $triggerEl: optional
+       * options: optional
+       */
+      const collapse = new Collapse(
+        $targetEl,
+        $triggerEl,
+        options,
+        instanceOptions,
+      );
+
+      document
+        .getElementById('main-menu-toggle')
+        .addEventListener('click', () => collapse.toggle());
+    </script>
   </head>
   <body>
     <nav class="bg-white border-gray-200 dark:bg-gray-900">
@@ -41,8 +83,9 @@ import '../styles/global.css';
           class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
           aria-controls="navbar-default"
           aria-expanded="false"
+          id="main-menu-toggle"
         >
-          <span class="sr-only">Open main menu</span>
+          <span class="sr-only">Ireki menu nagusia</span>
           <svg
             class="w-5 h-5"
             aria-hidden="true"
