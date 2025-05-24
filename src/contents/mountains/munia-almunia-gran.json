@@ -1,1 +1,174 @@
-{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran", "@type": "Mendia", "UID": "0b94f402cf224d839658cdf9e4e48357", "allow_discussion": false, "altuera": 3133, "beste_izenak": "\nPic de la Munia\n\n\n\n\n\n\n\n\n\n\nPico de la Munia\n\n\n\nPico de l'Almunia Gran\n\n", "contributors": [], "created": "2024-03-11T21:18:04+00:00", "creators": ["admin"], "description": "", "effective": "2024-03-11T22:19:02", "egoera": "zain", "exclude_from_nav": false, "expires": null, "id": "munia-almunia-gran", "image": null, "image_caption": null, "is_folderish": true, "items": [{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8", "@type": "Igoera", "UID": "93a07c2b05874dc58eec1fcb776e8d6d", "allow_discussion": false, "contributors": [], "created": "2025-01-08T18:29:32+00:00", "creators": ["116516395626837470953"], "description": "", "effective": null, "egindako_eguna": null, "egoera": {"title": "Zain", "token": "zain"}, "eguna": "2025-01-13", "exclude_from_nav": false, "expires": null, "id": "116516395626837470953-2025-01-8", "is_folderish": true, "language": "", "layout": "view", "lock": {"locked": false, "stealable": true}, "mendia_igo_duena": "", "mendizaleak": null, "modified": "2025-01-08T18:29:32+00:00", "next_item": {}, "oharrak": "Oier eta Jesus Mari Jauntsarats", "parent": {"@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran", "@type": "Mendia", "altuera": 3133, "created": "2024-03-11T21:18:04+00:00", "creators": ["admin"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": null, "erreserbak": null, "image_field": null, "image_scales": {}, "lat": "42.7148957", "lon": "0.1319236", "mendizerra": "Pirinioak", "review_state": "published", "sektorea": "La Munia", "title": "Munia / Almunia Gran", "type_title": "Mendia", "zailtasuna": 1}, "previous_item": {}, "review_state": "published", "rights": "", "subjects": [], "title": "116516395626837470953 - 2025-01-8", "type_title": "Igoera", "version": "current", "working_copy": null, "working_copy_of": null}], "items_total": 1, "language": "", "lat": "42.7148957", "layout": "view", "lock": {"locked": false, "stealable": true}, "lon": "0.1319236", "mendizerra": "Pirinioak", "modified": "2025-01-08T18:29:33+00:00", "next_item": {}, "osm_kodea": "1092110351", "parent": {"@id": "https://312.deporeibar.com/mendiak", "@type": "Document", "altuera": null, "created": "2024-02-19T19:25:17+00:00", "creators": ["admin"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": null, "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "Mendiak", "type_title": "Orria", "zailtasuna": null}, "previous_item": {}, "review_state": "published", "rights": "", "sektorea": "La Munia", "subjects": [], "title": "Munia / Almunia Gran", "type_title": "Mendia", "version": "current", "working_copy": null, "working_copy_of": null, "zailtasuna": 1}
+{
+  "@components": {
+    "actions": {
+      "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@actions"
+    },
+    "aliases": {
+      "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@aliases"
+    },
+    "breadcrumbs": {
+      "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@breadcrumbs"
+    },
+    "contextnavigation": {
+      "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@contextnavigation"
+    },
+    "navigation": {
+      "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@navigation"
+    },
+    "navroot": {
+      "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@navroot"
+    },
+    "types": {
+      "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@types"
+    },
+    "workflow": {
+      "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/@workflow"
+    }
+  },
+  "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran",
+  "@type": "Mendia",
+  "UID": "0b94f402cf224d839658cdf9e4e48357",
+  "allow_discussion": false,
+  "altuera": 3133,
+  "beste_izenak": "\nPic de la Munia\n\n\n\n\n\n\n\n\n\n\nPico de la Munia\n\n\n\nPico de l'Almunia Gran\n\n",
+  "contributors": [],
+  "created": "2024-03-11T21:18:04+00:00",
+  "creators": ["admin"],
+  "description": "",
+  "effective": "2024-03-11T22:19:02",
+  "egoera": "egin-gabe",
+  "exclude_from_nav": false,
+  "expires": null,
+  "id": "munia-almunia-gran",
+  "image": null,
+  "image_caption": null,
+  "is_folderish": true,
+  "items": [
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran/116516395626837470953-2025-01-8",
+      "@type": "Igoera",
+      "UID": "93a07c2b05874dc58eec1fcb776e8d6d",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2025-01-08T18:29:32+00:00",
+      "creators": ["116516395626837470953"],
+      "description": "",
+      "effective": null,
+      "egindako_eguna": null,
+      "egoera": { "title": "Zain", "token": "zain" },
+      "eguna": "2025-01-13",
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "116516395626837470953-2025-01-8",
+      "is_folderish": true,
+      "language": "",
+      "layout": "view",
+      "lock": { "locked": false, "stealable": true },
+      "mendia_igo_duena": "",
+      "mendizaleak": null,
+      "modified": "2025-01-08T18:29:32+00:00",
+      "next_item": {},
+      "oharrak": "Oier eta Jesus Mari Jauntsarats",
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/munia-almunia-gran",
+        "@type": "Mendia",
+        "altuera": 3133,
+        "created": "2024-03-11T21:18:04+00:00",
+        "creators": ["admin"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": null,
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": "42.7148957",
+        "lon": "0.1319236",
+        "mendizerra": "Pirinioak",
+        "review_state": "published",
+        "sektorea": "La Munia",
+        "title": "Munia / Almunia Gran",
+        "type_title": "Mendia",
+        "zailtasuna": 1
+      },
+      "previous_item": {},
+      "review_state": "published",
+      "rights": "",
+      "subjects": [],
+      "title": "116516395626837470953 - 2025-01-8",
+      "type_title": "Igoera",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    }
+  ],
+  "items_total": 1,
+  "language": "",
+  "lat": "42.7148957",
+  "layout": "view",
+  "lock": { "locked": false, "stealable": true },
+  "lon": "0.1319236",
+  "mendizerra": "Pirinioak",
+  "modified": "2025-01-08T18:29:33+00:00",
+  "next_item": {},
+  "osm_kodea": "1092110351",
+  "parent": {
+    "@id": "https://312.deporeibar.com/mendiak",
+    "@type": "Document",
+    "altuera": null,
+    "created": "2024-02-19T19:25:17+00:00",
+    "creators": ["admin"],
+    "description": "",
+    "egoera_igoera": null,
+    "egoera_mendia": null,
+    "eguna": null,
+    "erreserbak": null,
+    "image_field": null,
+    "image_scales": {},
+    "lat": null,
+    "lon": null,
+    "mendizerra": null,
+    "review_state": "published",
+    "sektorea": null,
+    "title": "Mendiak",
+    "type_title": "Orria",
+    "zailtasuna": null
+  },
+  "previous_item": {},
+  "review_state": "published",
+  "rights": "",
+  "sektorea": "La Munia",
+  "subjects": [],
+  "title": "Munia / Almunia Gran",
+  "type_title": "Mendia",
+  "version": "current",
+  "working_copy": null,
+  "working_copy_of": null,
+  "zailtasuna": 1
+}
