@@ -2,3 +2,8 @@
 @import 'flowbite/src/themes/default';
 @plugin "flowbite/plugin";
 @source "../../node_modules/flowbite";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-blue: #140fe6;
+}

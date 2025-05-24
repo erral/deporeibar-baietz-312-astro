@@ -11,27 +11,17 @@ const bg_colors = {
     'bg-red-100 text-red-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-sm dark:bg-red-900 dark:text-red-300',
 };
 
-const text_colors = {
-  eginda: 'text-white',
-};
-
 const Egoera = (props) => {
   const { egoera = null, egoera_single = undefined } = props;
 
   return (
     <>
       {egoera ? (
-        <span
-          className={`ml-2 ${bg_colors[egoera.token]} ${
-            text_colors[egoera.token]
-          }`}
-        >
+        <span className={`ml-2 ${bg_colors[egoera.token]}`}>
           {egoera.title}
         </span>
       ) : (
-        <span
-          className={`block capitalize mb-5 ${bg_colors[egoera_single]} ${text_colors[egoera_single]}`}
-        >
+        <span className={`block capitalize mb-5 ${bg_colors[egoera_single]}`}>
           {egoera_single}
         </span>
       )}

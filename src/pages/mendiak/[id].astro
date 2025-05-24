@@ -21,7 +21,7 @@ export function getStaticPaths() {
 const mountain = mountains[Astro.params.id];
 ---
 
-<Layout>
+<Layout title={`${mountain.title} - Baietz 312!`}>
   <div>
     <H1>{mountain.title}</H1>
     <div class="grid md:grid-cols-2">
