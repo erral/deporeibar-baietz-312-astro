@@ -24,4 +24,4 @@ pnpm-debug.log*
 .idea/
 
 # content images
-./src/contents/climbings/images/*
+src/contents/climbings/images/*
