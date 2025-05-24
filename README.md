@@ -8,3 +8,9 @@ Webgunearen aurreko bertsioa (proiektuak iraun zuen artean mendien erreserbak eg
 
 ![Urko argiztatuta. 2024-01-29. Josu Torrealday](https://www.deporeibar.com/312/assets/josu-urko-image-400.jpeg)
 **Argazkia: Josu Torrealday**
+
+[Kodearen lizentzia: GPLv2](./LICENSE)
+
+Webgunearen edukiaren lizentzia: galdetu Eibarko Klub Deportiboan, baina orokorrean pertsonak agertzen diren argazkiak ezin dira erabilpen komertzialetarako erabili.
+
+(c) Mikel Larreategi, 2025
