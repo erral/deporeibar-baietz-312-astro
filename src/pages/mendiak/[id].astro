@@ -83,11 +83,13 @@ const mountain = mountains[Astro.params.id];
                     )}
                   </p>
                   <div class="mb-5">
-                    {climbings[item.UID].items.map((item, index) => (
+                    {climbings[item.UID].items.map((image, index) => (
                       <Image
                         className="mb-5"
+                        climbing_uid={item.UID}
+                        image_uid={image.UID}
                         alt={`${mountain.title} mendirako igoeraren argazkia`}
-                        image={item.image}
+                        image={image.image}
                         sizes="50vw"
                       />
                     ))}
