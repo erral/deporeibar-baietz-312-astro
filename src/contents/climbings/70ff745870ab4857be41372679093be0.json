@@ -1,1 +1,914 @@
-{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25", "@type": "Igoera", "UID": "70ff745870ab4857be41372679093be0", "allow_discussion": false, "contributors": [], "created": "2024-07-25T12:07:31+00:00", "creators": ["107207572693001071996"], "description": "", "effective": null, "egindako_eguna": "2024-08-22", "egoera": {"title": "Eginda", "token": "eginda"}, "eguna": "2024-08-16", "exclude_from_nav": false, "expires": null, "id": "107207572693001071996-2024-07-25", "is_folderish": true, "items": [{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg", "@type": "Image", "UID": "1eb693ccdaef4a559fde8bd5c740d705", "allow_discussion": false, "contributors": [], "created": "2024-08-22T16:39:58+00:00", "creators": ["107207572693001071996"], "description": "", "effective": null, "exclude_from_nav": false, "expires": null, "id": "img-20240822-wa0011.jpg", "image": {"content-type": "image/jpeg", "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-1197-a2e4e6662827ae4c3711180b36cd31fd.jpeg", "filename": "IMG-20240822-WA0011.jpg", "height": 1600, "scales": {"great": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-1200-a5b980ad6388023a42f2821533e7532c.jpeg", "height": 1600, "width": 1197}, "huge": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-1600-7b6a17958e14262886dc9b29942d4bdc.jpeg", "height": 1600, "width": 1197}, "icon": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-32-b356f883313ea39012d39e8d4ddbb44a.jpeg", "height": 32, "width": 24}, "large": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-800-d361088774bf50ebf6281d5ccc78a11e.jpeg", "height": 1069, "width": 800}, "larger": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-1000-de9b8142f24b3a005d623616653151cf.jpeg", "height": 1336, "width": 1000}, "mini": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-200-3103dcbc7aa6ce52d073f257e91adbc0.jpeg", "height": 267, "width": 200}, "preview": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-400-9ef13263b58334e2d94e27dfd66fce16.jpeg", "height": 534, "width": 400}, "teaser": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-600-56e5b590e380c15a0ac2939646345306.jpeg", "height": 802, "width": 600}, "thumb": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-128-dbbe3804b967e97093041b9542ea4717.jpeg", "height": 128, "width": 95}, "tile": {"download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-64-114c4e85402d1e6e3d61be88517604e2.jpeg", "height": 64, "width": 48}}, "size": 253264, "width": 1197}, "is_folderish": false, "language": "", "layout": "image_view", "lock": {}, "modified": "2024-08-22T16:39:58+00:00", "next_item": {}, "parent": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25", "@type": "Igoera", "altuera": null, "created": "2024-07-25T12:07:31+00:00", "creators": ["107207572693001071996"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": "2024-08-16", "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "107207572693001071996 - 2024-07-25", "type_title": "Igoera", "zailtasuna": null}, "previous_item": {}, "relatedItems": [], "review_state": null, "rights": "", "subjects": [], "title": "IMG-20240822-WA0011.jpg", "type_title": "Irudia", "version": "current", "working_copy": null, "working_copy_of": null}, {"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic", "@type": "Image", "UID": "903aa85993e847bea47886db14569a3d", "allow_discussion": false, "contributors": [], "created": "2024-08-22T16:40:10+00:00", "creators": ["107207572693001071996"], "description": "", "effective": null, "exclude_from_nav": false, "expires": null, "id": "20240822_134622.heic", "image": {"content-type": "image/heic", "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image--1-cca76e6dcf746d5821ddcee63d05199c.heic", "filename": "20240822_134622.heic", "height": -1, "scales": {}, "size": 3829194, "width": -1}, "is_folderish": false, "language": "", "layout": "image_view", "lock": {}, "modified": "2024-08-22T16:40:10+00:00", "next_item": {}, "parent": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25", "@type": "Igoera", "altuera": null, "created": "2024-07-25T12:07:31+00:00", "creators": ["107207572693001071996"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": "2024-08-16", "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "107207572693001071996 - 2024-07-25", "type_title": "Igoera", "zailtasuna": null}, "previous_item": {}, "relatedItems": [], "review_state": null, "rights": "", "subjects": [], "title": "20240822_134622.heic", "type_title": "Irudia", "version": "current", "working_copy": null, "working_copy_of": null}, {"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic", "@type": "Image", "UID": "569e244052f948f4828ec37347c35e03", "allow_discussion": false, "contributors": [], "created": "2024-08-22T16:40:20+00:00", "creators": ["107207572693001071996"], "description": "", "effective": null, "exclude_from_nav": false, "expires": null, "id": "20240822_134239.heic", "image": {"content-type": "image/heic", "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image--1-47b370311f20b695b1678387990b402f.heic", "filename": "20240822_134239.heic", "height": -1, "scales": {}, "size": 4341885, "width": -1}, "is_folderish": false, "language": "", "layout": "image_view", "lock": {}, "modified": "2024-08-22T16:40:20+00:00", "next_item": {}, "parent": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25", "@type": "Igoera", "altuera": null, "created": "2024-07-25T12:07:31+00:00", "creators": ["107207572693001071996"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": "2024-08-16", "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "107207572693001071996 - 2024-07-25", "type_title": "Igoera", "zailtasuna": null}, "previous_item": {}, "relatedItems": [], "review_state": null, "rights": "", "subjects": [], "title": "20240822_134239.heic", "type_title": "Irudia", "version": "current", "working_copy": null, "working_copy_of": null}, {"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic", "@type": "Image", "UID": "e68932cd1f3545c988c50a904f64e44b", "allow_discussion": false, "contributors": [], "created": "2024-08-22T16:40:25+00:00", "creators": ["107207572693001071996"], "description": "", "effective": null, "exclude_from_nav": false, "expires": null, "id": "20240822_132307.heic", "image": {"content-type": "image/heic", "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image--1-f517ef2e18e3d3dd3cc87d11522bde5b.heic", "filename": "20240822_132307.heic", "height": -1, "scales": {}, "size": 3361220, "width": -1}, "is_folderish": false, "language": "", "layout": "image_view", "lock": {}, "modified": "2024-08-22T16:40:26+00:00", "next_item": {}, "parent": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25", "@type": "Igoera", "altuera": null, "created": "2024-07-25T12:07:31+00:00", "creators": ["107207572693001071996"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": "2024-08-16", "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "107207572693001071996 - 2024-07-25", "type_title": "Igoera", "zailtasuna": null}, "previous_item": {}, "relatedItems": [], "review_state": null, "rights": "", "subjects": [], "title": "20240822_132307.heic", "type_title": "Irudia", "version": "current", "working_copy": null, "working_copy_of": null}, {"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic", "@type": "Image", "UID": "27cbf294eff14a95b868b92b5472bf95", "allow_discussion": false, "contributors": [], "created": "2024-08-22T16:40:37+00:00", "creators": ["107207572693001071996"], "description": "", "effective": null, "exclude_from_nav": false, "expires": null, "id": "20240822_131725.heic", "image": {"content-type": "image/heic", "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image--1-89a3465ea5bcba09a7de7177a158138c.heic", "filename": "20240822_131725.heic", "height": -1, "scales": {}, "size": 4588418, "width": -1}, "is_folderish": false, "language": "", "layout": "image_view", "lock": {}, "modified": "2024-08-22T16:40:37+00:00", "next_item": {}, "parent": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25", "@type": "Igoera", "altuera": null, "created": "2024-07-25T12:07:31+00:00", "creators": ["107207572693001071996"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": "2024-08-16", "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "107207572693001071996 - 2024-07-25", "type_title": "Igoera", "zailtasuna": null}, "previous_item": {}, "relatedItems": [], "review_state": null, "rights": "", "subjects": [], "title": "20240822_131725.heic", "type_title": "Irudia", "version": "current", "working_copy": null, "working_copy_of": null}, {"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic", "@type": "Image", "UID": "1e4caf0cc75c4e6e936b746ad1bcad05", "allow_discussion": false, "contributors": [], "created": "2024-08-22T16:40:41+00:00", "creators": ["107207572693001071996"], "description": "", "effective": null, "exclude_from_nav": false, "expires": null, "id": "20240822_092638.heic", "image": {"content-type": "image/heic", "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image--1-be183f961a09b500b43c96446c8e3ee7.heic", "filename": "20240822_092638.heic", "height": -1, "scales": {}, "size": 1802826, "width": -1}, "is_folderish": false, "language": "", "layout": "image_view", "lock": {}, "modified": "2024-08-22T16:40:41+00:00", "next_item": {}, "parent": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25", "@type": "Igoera", "altuera": null, "created": "2024-07-25T12:07:31+00:00", "creators": ["107207572693001071996"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": "2024-08-16", "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "107207572693001071996 - 2024-07-25", "type_title": "Igoera", "zailtasuna": null}, "previous_item": {}, "relatedItems": [], "review_state": null, "rights": "", "subjects": [], "title": "20240822_092638.heic", "type_title": "Irudia", "version": "current", "working_copy": null, "working_copy_of": null}], "items_total": 6, "language": "", "layout": "view", "lock": {"locked": false, "stealable": true}, "mendia_igo_duena": "", "mendizaleak": "Mikel Larreategi\nJon Arana", "modified": "2024-08-22T16:41:53+00:00", "next_item": {}, "oharrak": "Jon Arana", "parent": {"@id": "https://312.deporeibar.com/mendiak/pico-tendenera", "@type": "Mendia", "altuera": 2845, "created": "2024-03-11T21:18:08+00:00", "creators": ["admin"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": null, "erreserbak": null, "image_field": null, "image_scales": {}, "lat": "42.6798404", "lon": "-0.1993344", "mendizerra": "Pirinioak", "review_state": "published", "sektorea": "Huesca", "title": "Pico Tende\u00f1era", "type_title": "Mendia", "zailtasuna": 1}, "previous_item": {}, "review_state": "published", "rights": "", "subjects": [], "title": "107207572693001071996 - 2024-07-25", "type_title": "Igoera", "version": "current", "working_copy": null, "working_copy_of": null}
+{
+  "@components": {
+    "actions": {
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@actions"
+    },
+    "aliases": {
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@aliases"
+    },
+    "breadcrumbs": {
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@breadcrumbs"
+    },
+    "contextnavigation": {
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@contextnavigation"
+    },
+    "navigation": {
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@navigation"
+    },
+    "navroot": {
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@navroot"
+    },
+    "types": {
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@types"
+    },
+    "workflow": {
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/@workflow"
+    }
+  },
+  "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25",
+  "@type": "Igoera",
+  "UID": "70ff745870ab4857be41372679093be0",
+  "allow_discussion": false,
+  "contributors": [],
+  "created": "2024-07-25T12:07:31+00:00",
+  "creators": ["107207572693001071996"],
+  "description": "",
+  "effective": null,
+  "egindako_eguna": "2024-08-22",
+  "egoera": { "title": "Eginda", "token": "eginda" },
+  "eguna": "2024-08-16",
+  "exclude_from_nav": false,
+  "expires": null,
+  "id": "107207572693001071996-2024-07-25",
+  "is_folderish": true,
+  "items": [
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg",
+      "@type": "Image",
+      "UID": "1eb693ccdaef4a559fde8bd5c740d705",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-08-22T16:39:58+00:00",
+      "creators": ["107207572693001071996"],
+      "description": "",
+      "effective": null,
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "img-20240822-wa0011.jpg",
+      "image": {
+        "content-type": "image/jpeg",
+        "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-1197-a2e4e6662827ae4c3711180b36cd31fd.jpeg",
+        "filename": "IMG-20240822-WA0011.jpg",
+        "height": 1600,
+        "scales": {
+          "great": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-1200-a5b980ad6388023a42f2821533e7532c.jpeg",
+            "height": 1600,
+            "width": 1197
+          },
+          "huge": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-1600-7b6a17958e14262886dc9b29942d4bdc.jpeg",
+            "height": 1600,
+            "width": 1197
+          },
+          "icon": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-32-b356f883313ea39012d39e8d4ddbb44a.jpeg",
+            "height": 32,
+            "width": 24
+          },
+          "large": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-800-d361088774bf50ebf6281d5ccc78a11e.jpeg",
+            "height": 1069,
+            "width": 800
+          },
+          "larger": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-1000-de9b8142f24b3a005d623616653151cf.jpeg",
+            "height": 1336,
+            "width": 1000
+          },
+          "mini": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-200-3103dcbc7aa6ce52d073f257e91adbc0.jpeg",
+            "height": 267,
+            "width": 200
+          },
+          "preview": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-400-9ef13263b58334e2d94e27dfd66fce16.jpeg",
+            "height": 534,
+            "width": 400
+          },
+          "teaser": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-600-56e5b590e380c15a0ac2939646345306.jpeg",
+            "height": 802,
+            "width": 600
+          },
+          "thumb": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-128-dbbe3804b967e97093041b9542ea4717.jpeg",
+            "height": 128,
+            "width": 95
+          },
+          "tile": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/img-20240822-wa0011.jpg/@@images/image-64-114c4e85402d1e6e3d61be88517604e2.jpeg",
+            "height": 64,
+            "width": 48
+          }
+        },
+        "size": 253264,
+        "width": 1197
+      },
+      "is_folderish": false,
+      "language": "",
+      "layout": "image_view",
+      "lock": {},
+      "modified": "2024-08-22T16:39:58+00:00",
+      "next_item": {},
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25",
+        "@type": "Igoera",
+        "altuera": null,
+        "created": "2024-07-25T12:07:31+00:00",
+        "creators": ["107207572693001071996"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": "2024-08-16",
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": null,
+        "lon": null,
+        "mendizerra": null,
+        "review_state": "published",
+        "sektorea": null,
+        "title": "107207572693001071996 - 2024-07-25",
+        "type_title": "Igoera",
+        "zailtasuna": null
+      },
+      "previous_item": {},
+      "relatedItems": [],
+      "review_state": null,
+      "rights": "",
+      "subjects": [],
+      "title": "IMG-20240822-WA0011.jpg",
+      "type_title": "Irudia",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    },
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic",
+      "@type": "Image",
+      "UID": "903aa85993e847bea47886db14569a3d",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-08-22T16:40:10+00:00",
+      "creators": ["107207572693001071996"],
+      "description": "",
+      "effective": null,
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "20240822_134622.heic",
+      "image": {
+        "content-type": "image/jpeg",
+        "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-4000-7e07842fa3446c552bb5264a57fae15b.jpeg",
+        "filename": "20240822_134622.jpg",
+        "height": 3000,
+        "scales": {
+          "great": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-1200-b01f55d4265fdf6ed7c05c12a2832f84.jpeg",
+            "height": 900,
+            "width": 1200
+          },
+          "huge": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-1600-f17391803268cea9c43b150fc26ee1e6.jpeg",
+            "height": 1200,
+            "width": 1600
+          },
+          "icon": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-32-3002e6688c0c0d0e6ce45235464488a7.jpeg",
+            "height": 24,
+            "width": 32
+          },
+          "large": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-800-66f29080f7f2f9e5a9f8460069fac084.jpeg",
+            "height": 600,
+            "width": 800
+          },
+          "larger": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-1000-b1d6fac467b2e6a984fc6dd4e927416e.jpeg",
+            "height": 750,
+            "width": 1000
+          },
+          "mini": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-200-1b2172cae89820ffd88b4081e8bac8c2.jpeg",
+            "height": 150,
+            "width": 200
+          },
+          "preview": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-400-96d72b89151a20f997058dc08afda0fe.jpeg",
+            "height": 300,
+            "width": 400
+          },
+          "teaser": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-600-e7c4917b97b3938bfb748b611642045e.jpeg",
+            "height": 450,
+            "width": 600
+          },
+          "thumb": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-128-b5edda3e901eb0aaa95b21cb71153c67.jpeg",
+            "height": 96,
+            "width": 128
+          },
+          "tile": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134622.heic/@@images/image-64-e2cc6a513c6a893a9c505d2663caeba4.jpeg",
+            "height": 48,
+            "width": 64
+          }
+        },
+        "size": 3888579,
+        "width": 4000
+      },
+      "is_folderish": false,
+      "language": "",
+      "layout": "image_view",
+      "lock": {},
+      "modified": "2025-05-25T09:08:27+00:00",
+      "next_item": {},
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25",
+        "@type": "Igoera",
+        "altuera": null,
+        "created": "2024-07-25T12:07:31+00:00",
+        "creators": ["107207572693001071996"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": "2024-08-16",
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": null,
+        "lon": null,
+        "mendizerra": null,
+        "review_state": "published",
+        "sektorea": null,
+        "title": "107207572693001071996 - 2024-07-25",
+        "type_title": "Igoera",
+        "zailtasuna": null
+      },
+      "previous_item": {},
+      "relatedItems": [],
+      "review_state": null,
+      "rights": "",
+      "subjects": [],
+      "title": "20240822_134622.heic",
+      "type_title": "Irudia",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    },
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic",
+      "@type": "Image",
+      "UID": "569e244052f948f4828ec37347c35e03",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-08-22T16:40:20+00:00",
+      "creators": ["107207572693001071996"],
+      "description": "",
+      "effective": null,
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "20240822_134239.heic",
+      "image": {
+        "content-type": "image/jpeg",
+        "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-3000-4383a4e0c76ff9a4862c989775f475aa.jpeg",
+        "filename": "20240822_134239.jpg",
+        "height": 4000,
+        "scales": {
+          "great": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-1200-2fd3b83f9da5d27c9ef924c9a642ad6d.jpeg",
+            "height": 1600,
+            "width": 1200
+          },
+          "huge": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-1600-52a4ed3ddf8d17917a4110c58825b7a1.jpeg",
+            "height": 2133,
+            "width": 1600
+          },
+          "icon": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-32-eda7d4b79fe5cf27fbf740d9aa944239.jpeg",
+            "height": 32,
+            "width": 24
+          },
+          "large": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-800-3e77d5f0302f59ed484237f7697090c7.jpeg",
+            "height": 1066,
+            "width": 800
+          },
+          "larger": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-1000-47a57d399d051542da9a201f0f787440.jpeg",
+            "height": 1333,
+            "width": 1000
+          },
+          "mini": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-200-6031b7f4092823a3e5e545673979c6f2.jpeg",
+            "height": 266,
+            "width": 200
+          },
+          "preview": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-400-60f81f43713ff7fce2c5b157ef0bddc0.jpeg",
+            "height": 533,
+            "width": 400
+          },
+          "teaser": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-600-097dce44bce8c7498a2267b4fa21655c.jpeg",
+            "height": 800,
+            "width": 600
+          },
+          "thumb": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-128-b75f73331ae79ceffe489d1bb5e57e4a.jpeg",
+            "height": 128,
+            "width": 96
+          },
+          "tile": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_134239.heic/@@images/image-64-a06c124daa3cbcb80f8003487fbdac4e.jpeg",
+            "height": 64,
+            "width": 48
+          }
+        },
+        "size": 4462953,
+        "width": 3000
+      },
+      "is_folderish": false,
+      "language": "",
+      "layout": "image_view",
+      "lock": {},
+      "modified": "2025-05-25T09:08:32+00:00",
+      "next_item": {},
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25",
+        "@type": "Igoera",
+        "altuera": null,
+        "created": "2024-07-25T12:07:31+00:00",
+        "creators": ["107207572693001071996"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": "2024-08-16",
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": null,
+        "lon": null,
+        "mendizerra": null,
+        "review_state": "published",
+        "sektorea": null,
+        "title": "107207572693001071996 - 2024-07-25",
+        "type_title": "Igoera",
+        "zailtasuna": null
+      },
+      "previous_item": {},
+      "relatedItems": [],
+      "review_state": null,
+      "rights": "",
+      "subjects": [],
+      "title": "20240822_134239.heic",
+      "type_title": "Irudia",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    },
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic",
+      "@type": "Image",
+      "UID": "e68932cd1f3545c988c50a904f64e44b",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-08-22T16:40:25+00:00",
+      "creators": ["107207572693001071996"],
+      "description": "",
+      "effective": null,
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "20240822_132307.heic",
+      "image": {
+        "content-type": "image/jpeg",
+        "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-4000-188f4690b55b675309b6d1abedc8e7fb.jpeg",
+        "filename": "20240822_132307.jpg",
+        "height": 3000,
+        "scales": {
+          "great": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-1200-bc241ff9adf919a4807a7305ed71097b.jpeg",
+            "height": 900,
+            "width": 1200
+          },
+          "huge": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-1600-7b6269e28ad180eb35318fa4492a2c3f.jpeg",
+            "height": 1200,
+            "width": 1600
+          },
+          "icon": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-32-205e87c72f4431eceab594c0e95b5a22.jpeg",
+            "height": 24,
+            "width": 32
+          },
+          "large": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-800-04416b720a46ddfebe4ae5e3aa66cedb.jpeg",
+            "height": 600,
+            "width": 800
+          },
+          "larger": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-1000-dc57f3bb7975572a11541d03bd78a235.jpeg",
+            "height": 750,
+            "width": 1000
+          },
+          "mini": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-200-3e4d17ce8aebebb2c8beb8ee6caceefd.jpeg",
+            "height": 150,
+            "width": 200
+          },
+          "preview": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-400-a4fdd81ee3956504aff0de8c2cafcaac.jpeg",
+            "height": 300,
+            "width": 400
+          },
+          "teaser": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-600-58fb0580b5bd7befe4cc95d6cd6c763a.jpeg",
+            "height": 450,
+            "width": 600
+          },
+          "thumb": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-128-05c4cea2736ad6db98637b9d668f628c.jpeg",
+            "height": 96,
+            "width": 128
+          },
+          "tile": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_132307.heic/@@images/image-64-82627eaba6550ab02dcfda3e6441b1cf.jpeg",
+            "height": 48,
+            "width": 64
+          }
+        },
+        "size": 3505884,
+        "width": 4000
+      },
+      "is_folderish": false,
+      "language": "",
+      "layout": "image_view",
+      "lock": {},
+      "modified": "2025-05-25T09:08:36+00:00",
+      "next_item": {},
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25",
+        "@type": "Igoera",
+        "altuera": null,
+        "created": "2024-07-25T12:07:31+00:00",
+        "creators": ["107207572693001071996"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": "2024-08-16",
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": null,
+        "lon": null,
+        "mendizerra": null,
+        "review_state": "published",
+        "sektorea": null,
+        "title": "107207572693001071996 - 2024-07-25",
+        "type_title": "Igoera",
+        "zailtasuna": null
+      },
+      "previous_item": {},
+      "relatedItems": [],
+      "review_state": null,
+      "rights": "",
+      "subjects": [],
+      "title": "20240822_132307.heic",
+      "type_title": "Irudia",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    },
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic",
+      "@type": "Image",
+      "UID": "27cbf294eff14a95b868b92b5472bf95",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-08-22T16:40:37+00:00",
+      "creators": ["107207572693001071996"],
+      "description": "",
+      "effective": null,
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "20240822_131725.heic",
+      "image": {
+        "content-type": "image/jpeg",
+        "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-4000-a9a2de75ac1711d20ecc98e9ca74b54a.jpeg",
+        "filename": "20240822_131725.jpg",
+        "height": 3000,
+        "scales": {
+          "great": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-1200-78239d2914518854c7d9e69bec1f9983.jpeg",
+            "height": 900,
+            "width": 1200
+          },
+          "huge": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-1600-f53a9bd415d501acd97d132cbfcca2c4.jpeg",
+            "height": 1200,
+            "width": 1600
+          },
+          "icon": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-32-8afe9a1eb2e76bd4965d6d4e01d8607c.jpeg",
+            "height": 24,
+            "width": 32
+          },
+          "large": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-800-f1a6f71f8778b3ea2dcc12284b7fd197.jpeg",
+            "height": 600,
+            "width": 800
+          },
+          "larger": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-1000-cfd4e42ee91684232217bb2fd7158a9c.jpeg",
+            "height": 750,
+            "width": 1000
+          },
+          "mini": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-200-bc4936a90dd37dfb30407771881b7278.jpeg",
+            "height": 150,
+            "width": 200
+          },
+          "preview": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-400-604ce342cd5429c8dac1ec299cd3ec18.jpeg",
+            "height": 300,
+            "width": 400
+          },
+          "teaser": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-600-f9af37007307407a445b05e878bd6305.jpeg",
+            "height": 450,
+            "width": 600
+          },
+          "thumb": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-128-33194f27fe8d1e15a3cd5e49ddedc3ec.jpeg",
+            "height": 96,
+            "width": 128
+          },
+          "tile": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_131725.heic/@@images/image-64-c9d39f7945e343440988e68a535ba3fb.jpeg",
+            "height": 48,
+            "width": 64
+          }
+        },
+        "size": 4641142,
+        "width": 4000
+      },
+      "is_folderish": false,
+      "language": "",
+      "layout": "image_view",
+      "lock": {},
+      "modified": "2025-05-25T09:08:42+00:00",
+      "next_item": {},
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25",
+        "@type": "Igoera",
+        "altuera": null,
+        "created": "2024-07-25T12:07:31+00:00",
+        "creators": ["107207572693001071996"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": "2024-08-16",
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": null,
+        "lon": null,
+        "mendizerra": null,
+        "review_state": "published",
+        "sektorea": null,
+        "title": "107207572693001071996 - 2024-07-25",
+        "type_title": "Igoera",
+        "zailtasuna": null
+      },
+      "previous_item": {},
+      "relatedItems": [],
+      "review_state": null,
+      "rights": "",
+      "subjects": [],
+      "title": "20240822_131725.heic",
+      "type_title": "Irudia",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    },
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic",
+      "@type": "Image",
+      "UID": "1e4caf0cc75c4e6e936b746ad1bcad05",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-08-22T16:40:41+00:00",
+      "creators": ["107207572693001071996"],
+      "description": "",
+      "effective": null,
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "20240822_092638.heic",
+      "image": {
+        "content-type": "image/jpeg",
+        "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-4000-ccf4d1ab6272ab7e7b1d1344a0159ed8.jpeg",
+        "filename": "20240822_092638.jpg",
+        "height": 3000,
+        "scales": {
+          "great": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-1200-04820d6ec0bc4c7c8a688b5d27e450ae.jpeg",
+            "height": 900,
+            "width": 1200
+          },
+          "huge": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-1600-3d6afa6694393fdf400e574b00dfbc6a.jpeg",
+            "height": 1200,
+            "width": 1600
+          },
+          "icon": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-32-ef4c208a7a2c0a212fd066a313a07f1f.jpeg",
+            "height": 24,
+            "width": 32
+          },
+          "large": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-800-8e4cd231d9de6994b69a9c50238a4356.jpeg",
+            "height": 600,
+            "width": 800
+          },
+          "larger": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-1000-5b430f2924fe5222250a606c8934262b.jpeg",
+            "height": 750,
+            "width": 1000
+          },
+          "mini": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-200-99e0557b0c1649545f5e66d8009dbefd.jpeg",
+            "height": 150,
+            "width": 200
+          },
+          "preview": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-400-1e2c729c390bc20603133d01e832d68a.jpeg",
+            "height": 300,
+            "width": 400
+          },
+          "teaser": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-600-63e04ec8a75456758c59bdfc88de4e91.jpeg",
+            "height": 450,
+            "width": 600
+          },
+          "thumb": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-128-ab6e5c9ee107384666f8dd065b74b71a.jpeg",
+            "height": 96,
+            "width": 128
+          },
+          "tile": {
+            "download": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25/20240822_092638.heic/@@images/image-64-bde84391f62b68c4e00c8e2a20555db1.jpeg",
+            "height": 48,
+            "width": 64
+          }
+        },
+        "size": 2367003,
+        "width": 4000
+      },
+      "is_folderish": false,
+      "language": "",
+      "layout": "image_view",
+      "lock": {},
+      "modified": "2025-05-25T09:08:47+00:00",
+      "next_item": {},
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/pico-tendenera/107207572693001071996-2024-07-25",
+        "@type": "Igoera",
+        "altuera": null,
+        "created": "2024-07-25T12:07:31+00:00",
+        "creators": ["107207572693001071996"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": "2024-08-16",
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": null,
+        "lon": null,
+        "mendizerra": null,
+        "review_state": "published",
+        "sektorea": null,
+        "title": "107207572693001071996 - 2024-07-25",
+        "type_title": "Igoera",
+        "zailtasuna": null
+      },
+      "previous_item": {},
+      "relatedItems": [],
+      "review_state": null,
+      "rights": "",
+      "subjects": [],
+      "title": "20240822_092638.heic",
+      "type_title": "Irudia",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    }
+  ],
+  "items_total": 6,
+  "language": "",
+  "layout": "view",
+  "lock": { "locked": false, "stealable": true },
+  "mendia_igo_duena": "",
+  "mendizaleak": "Mikel Larreategi\nJon Arana",
+  "modified": "2024-08-22T16:41:53+00:00",
+  "next_item": {},
+  "oharrak": "Jon Arana",
+  "parent": {
+    "@id": "https://312.deporeibar.com/mendiak/pico-tendenera",
+    "@type": "Mendia",
+    "altuera": 2845,
+    "created": "2024-03-11T21:18:08+00:00",
+    "creators": ["admin"],
+    "description": "",
+    "egoera_igoera": null,
+    "egoera_mendia": null,
+    "eguna": null,
+    "erreserbak": null,
+    "image_field": null,
+    "image_scales": {},
+    "lat": "42.6798404",
+    "lon": "-0.1993344",
+    "mendizerra": "Pirinioak",
+    "review_state": "published",
+    "sektorea": "Huesca",
+    "title": "Pico Tende\u00f1era",
+    "type_title": "Mendia",
+    "zailtasuna": 1
+  },
+  "previous_item": {},
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "107207572693001071996 - 2024-07-25",
+  "type_title": "Igoera",
+  "version": "current",
+  "working_copy": null,
+  "working_copy_of": null
+}
