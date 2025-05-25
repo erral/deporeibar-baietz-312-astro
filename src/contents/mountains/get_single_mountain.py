@@ -6,7 +6,7 @@ def add_api(url):
 
 def main():
     mountain_url = add_api(
-        "https://312.deporeibar.com/mendiak/pico-tendenera?fullobjects"
+        "https://312.deporeibar.com/mendiak/aketegi?fullobjects"
     )
     mountain = requests.get(mountain_url)
     if mountain.ok:
