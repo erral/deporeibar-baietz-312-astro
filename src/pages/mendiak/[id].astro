@@ -25,7 +25,7 @@ const mountain = mountains[Astro.params.id];
   <div>
     <H1>{mountain.title}</H1>
     <div class="grid md:grid-cols-2">
-      <div class="">
+      <div class="mt-10">
         <p>
           <ul>
             <li>
@@ -54,7 +54,7 @@ const mountain = mountains[Astro.params.id];
           />
         </div>
       </div>
-      <div class="">
+      <div class="sm:mt-10 md:mt-10">
         {
           mountain.items.length > 0 ? (
             mountain.items.map((item, key) => {
@@ -74,7 +74,7 @@ const mountain = mountains[Astro.params.id];
                     <br />
                     <strong class="font-bold">Mendizalea:</strong>{' '}
                     {climbings[item.UID]['mendizalea'] ||
-                      climbings[item.UID]['mendia_igo_duena'] ||
+                      climbings[item.UID]['mendizaleak'] ||
                       userdata[item.creators[0]]}
                     {climbings[item.UID]['oharrak'] && (
                       <span class="block mt-5 text-gray-900 dark:text-white">
