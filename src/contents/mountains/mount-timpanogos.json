@@ -1,1 +1,177 @@
-{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos", "@type": "Mendia", "UID": "be1cc5d40e8845b7a007fc9219f2c901", "allow_discussion": false, "altuera": 3582, "beste_izenak": "", "contributors": [], "created": "2024-10-06T17:14:34+00:00", "creators": ["106932265020763600836"], "description": "", "effective": "2024-10-06T19:14:38", "egoera": "proposatutakoa-eginda", "exclude_from_nav": false, "expires": null, "id": "mount-timpanogos", "image": null, "image_caption": null, "is_folderish": true, "items": [{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor", "@type": "Igoera", "UID": "4edfee1a70ba4e1d9f88a652a1bb95fb", "allow_discussion": false, "contributors": [], "created": "2024-10-06T17:15:04+00:00", "creators": ["106932265020763600836"], "description": "", "effective": "2024-10-06T19:15:08", "egindako_eguna": "2024-09-28", "egoera": {"title": "Proposatutakoa eginda", "token": "proposatutakoa-eginda"}, "eguna": "2024-09-28", "exclude_from_nav": false, "expires": null, "id": "arrate-eta-zigor", "is_folderish": true, "language": {"title": "Euskara", "token": "eu"}, "layout": "view", "lock": {"locked": false, "stealable": true}, "mendia_igo_duena": "Arrate eta Zigor", "mendizaleak": "Arrate Zarraua\nZigor Arteaga", "modified": "2024-10-06T17:16:14+00:00", "next_item": {}, "oharrak": "", "parent": {"@id": "https://312.deporeibar.com/mendiak/mount-timpanogos", "@type": "Mendia", "altuera": 3582, "created": "2024-10-06T17:14:34+00:00", "creators": ["106932265020763600836"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": null, "erreserbak": null, "image_field": null, "image_scales": {}, "lat": "40.3908264,", "lon": "-111.6460609", "mendizerra": "Rocky Mountains", "review_state": "published", "sektorea": "Wasatch Range", "title": "Mount Timpanogos", "type_title": "Mendia", "zailtasuna": 1}, "previous_item": {}, "review_state": "published", "rights": "", "subjects": [], "title": "Arrate eta Zigor", "type_title": "Igoera", "version": "current", "working_copy": null, "working_copy_of": null}], "items_total": 1, "language": {"title": "Euskara", "token": "eu"}, "lat": "40.3908264,", "layout": "view", "lock": {"locked": false, "stealable": true}, "lon": "-111.6460609", "mendizerra": "Rocky Mountains", "modified": "2024-10-06T17:15:04+00:00", "next_item": {}, "osm_kodea": "5732548226", "parent": {"@id": "https://312.deporeibar.com/mendiak", "@type": "Document", "altuera": null, "created": "2024-02-19T19:25:17+00:00", "creators": ["admin"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": null, "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "Mendiak", "type_title": "Orria", "zailtasuna": null}, "previous_item": {}, "review_state": "published", "rights": "", "sektorea": "Wasatch Range", "subjects": [], "title": "Mount Timpanogos", "type_title": "Mendia", "version": "current", "working_copy": null, "working_copy_of": null, "zailtasuna": 1}
+{
+  "@components": {
+    "actions": {
+      "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@actions"
+    },
+    "aliases": {
+      "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@aliases"
+    },
+    "breadcrumbs": {
+      "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@breadcrumbs"
+    },
+    "contextnavigation": {
+      "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@contextnavigation"
+    },
+    "navigation": {
+      "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@navigation"
+    },
+    "navroot": {
+      "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@navroot"
+    },
+    "types": {
+      "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@types"
+    },
+    "workflow": {
+      "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/@workflow"
+    }
+  },
+  "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos",
+  "@type": "Mendia",
+  "UID": "be1cc5d40e8845b7a007fc9219f2c901",
+  "allow_discussion": false,
+  "altuera": 3582,
+  "beste_izenak": "",
+  "contributors": [],
+  "created": "2024-10-06T17:14:34+00:00",
+  "creators": ["106932265020763600836"],
+  "description": "",
+  "effective": "2024-10-06T19:14:38",
+  "egoera": "proposatutakoa-eginda",
+  "exclude_from_nav": false,
+  "expires": null,
+  "id": "mount-timpanogos",
+  "image": null,
+  "image_caption": null,
+  "is_folderish": true,
+  "items": [
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos/arrate-eta-zigor",
+      "@type": "Igoera",
+      "UID": "4edfee1a70ba4e1d9f88a652a1bb95fb",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-10-06T17:15:04+00:00",
+      "creators": ["106932265020763600836"],
+      "description": "",
+      "effective": "2024-10-06T19:15:08",
+      "egindako_eguna": "2024-09-28",
+      "egoera": {
+        "title": "Proposatutakoa eginda",
+        "token": "proposatutakoa-eginda"
+      },
+      "eguna": "2024-09-28",
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "arrate-eta-zigor",
+      "is_folderish": true,
+      "language": { "title": "Euskara", "token": "eu" },
+      "layout": "view",
+      "lock": { "locked": false, "stealable": true },
+      "mendia_igo_duena": "Arrate eta Zigor",
+      "mendizaleak": "Arrate Zarraua\nZigor Arteaga",
+      "modified": "2024-10-06T17:16:14+00:00",
+      "next_item": {},
+      "oharrak": "",
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/mount-timpanogos",
+        "@type": "Mendia",
+        "altuera": 3582,
+        "created": "2024-10-06T17:14:34+00:00",
+        "creators": ["106932265020763600836"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": null,
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": "40.3908264,",
+        "lon": "-111.6460609",
+        "mendizerra": "Rocky Mountains",
+        "review_state": "published",
+        "sektorea": "Wasatch Range",
+        "title": "Mount Timpanogos",
+        "type_title": "Mendia",
+        "zailtasuna": 1
+      },
+      "previous_item": {},
+      "review_state": "published",
+      "rights": "",
+      "subjects": [],
+      "title": "Arrate eta Zigor",
+      "type_title": "Igoera",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    }
+  ],
+  "items_total": 1,
+  "language": { "title": "Euskara", "token": "eu" },
+  "lat": "40.3908264",
+  "layout": "view",
+  "lock": { "locked": false, "stealable": true },
+  "lon": "-111.6460609",
+  "mendizerra": "Rocky Mountains",
+  "modified": "2024-10-06T17:15:04+00:00",
+  "next_item": {},
+  "osm_kodea": "5732548226",
+  "parent": {
+    "@id": "https://312.deporeibar.com/mendiak",
+    "@type": "Document",
+    "altuera": null,
+    "created": "2024-02-19T19:25:17+00:00",
+    "creators": ["admin"],
+    "description": "",
+    "egoera_igoera": null,
+    "egoera_mendia": null,
+    "eguna": null,
+    "erreserbak": null,
+    "image_field": null,
+    "image_scales": {},
+    "lat": null,
+    "lon": null,
+    "mendizerra": null,
+    "review_state": "published",
+    "sektorea": null,
+    "title": "Mendiak",
+    "type_title": "Orria",
+    "zailtasuna": null
+  },
+  "previous_item": {},
+  "review_state": "published",
+  "rights": "",
+  "sektorea": "Wasatch Range",
+  "subjects": [],
+  "title": "Mount Timpanogos",
+  "type_title": "Mendia",
+  "version": "current",
+  "working_copy": null,
+  "working_copy_of": null,
+  "zailtasuna": 1
+}

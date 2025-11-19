@@ -1,1 +1,177 @@
-{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal", "@type": "Mendia", "UID": "38e856665ddd4901add1c78aaaab0e91", "allow_discussion": false, "altuera": 4167, "beste_izenak": "Jbel Toubkal \u062c\u0628\u0644 \n\u062a\u0648\u0628\u0642\u0627\u0644\n\u062c\u0628\u0644 \u062a\u0648\u0628\u0642\u0627\u0644\n\u2d5c\u2d53\u2d31\u2d47\u2d30\u2d4d\nD\u017eabal Tubkal\nJbel Toubkal\nToubkal\n\u0422\u0443\u0431\u043a\u0430\u043b\u044c", "contributors": [], "created": "2024-06-02T07:41:09+00:00", "creators": ["106932265020763600836"], "description": "", "effective": "2024-06-02T09:41:14", "egoera": "proposatutakoa-eginda", "exclude_from_nav": false, "expires": null, "id": "jabal-tubqal", "image": null, "image_caption": null, "is_folderish": true, "items": [{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa", "@type": "Igoera", "UID": "d48b05da54f148498ba050f0d93dc6c4", "allow_discussion": false, "contributors": [], "created": "2024-06-02T07:41:46+00:00", "creators": ["117369720697426009775"], "description": "", "effective": "2024-06-02T09:41:50", "egindako_eguna": "2024-05-29", "egoera": {"title": "Proposatutakoa eginda", "token": "proposatutakoa-eginda"}, "eguna": "2024-05-29", "exclude_from_nav": false, "expires": null, "id": "kike-astarloa", "is_folderish": true, "language": {"title": "Euskara", "token": "eu"}, "layout": "view", "lock": {"locked": false, "stealable": true}, "mendia_igo_duena": "Kike Astarloa", "mendizaleak": "Kike Astarloa\nJose Ignacio Arnaiz\nI\u00f1aki Ulazia\nRoberto Gomez\nJose Luis Morcil\nGuillermo Espallargas\nHamed", "modified": "2024-06-02T11:30:57+00:00", "next_item": {}, "oharrak": "", "parent": {"@id": "https://312.deporeibar.com/mendiak/jabal-tubqal", "@type": "Mendia", "altuera": 4167, "created": "2024-06-02T07:41:09+00:00", "creators": ["106932265020763600836"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": null, "erreserbak": null, "image_field": null, "image_scales": {}, "lat": "31.0598318", "lon": "-7.9149438", "mendizerra": "Atlas", "review_state": "published", "sektorea": "Maroko", "title": "Jabal T\u016bbq\u0101l", "type_title": "Mendia", "zailtasuna": 1}, "previous_item": {}, "review_state": "published", "rights": "", "subjects": [], "title": "Kike Astarloa", "type_title": "Igoera", "version": "current", "working_copy": null, "working_copy_of": null}], "items_total": 1, "language": {"title": "Euskara", "token": "eu"}, "lat": "31.0598318", "layout": "view", "lock": {"locked": false, "stealable": true}, "lon": "-7.9149438", "mendizerra": "Atlas", "modified": "2024-06-02T07:42:46+00:00", "next_item": {}, "osm_kodea": "87828608", "parent": {"@id": "https://312.deporeibar.com/mendiak", "@type": "Document", "altuera": null, "created": "2024-02-19T19:25:17+00:00", "creators": ["admin"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": null, "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "Mendiak", "type_title": "Orria", "zailtasuna": null}, "previous_item": {}, "review_state": "published", "rights": "", "sektorea": "Maroko", "subjects": [], "title": "Jabal T\u016bbq\u0101l", "type_title": "Mendia", "version": "current", "working_copy": null, "working_copy_of": null, "zailtasuna": 1}
+{
+  "@components": {
+    "actions": {
+      "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@actions"
+    },
+    "aliases": {
+      "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@aliases"
+    },
+    "breadcrumbs": {
+      "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@breadcrumbs"
+    },
+    "contextnavigation": {
+      "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@contextnavigation"
+    },
+    "navigation": {
+      "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@navigation"
+    },
+    "navroot": {
+      "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@navroot"
+    },
+    "types": {
+      "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@types"
+    },
+    "workflow": {
+      "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/@workflow"
+    }
+  },
+  "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal",
+  "@type": "Mendia",
+  "UID": "38e856665ddd4901add1c78aaaab0e91",
+  "allow_discussion": false,
+  "altuera": 4167,
+  "beste_izenak": "Jbel Toubkal \u062c\u0628\u0644 \n\u062a\u0648\u0628\u0642\u0627\u0644\n\u062c\u0628\u0644 \u062a\u0648\u0628\u0642\u0627\u0644\n\u2d5c\u2d53\u2d31\u2d47\u2d30\u2d4d\nD\u017eabal Tubkal\nJbel Toubkal\nToubkal\n\u0422\u0443\u0431\u043a\u0430\u043b\u044c",
+  "contributors": [],
+  "created": "2024-06-02T07:41:09+00:00",
+  "creators": ["106932265020763600836"],
+  "description": "",
+  "effective": "2024-06-02T09:41:14",
+  "egoera": "proposatutakoa-eginda",
+  "exclude_from_nav": false,
+  "expires": null,
+  "id": "jabal-tubqal",
+  "image": null,
+  "image_caption": null,
+  "is_folderish": true,
+  "items": [
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal/kike-astarloa",
+      "@type": "Igoera",
+      "UID": "d48b05da54f148498ba050f0d93dc6c4",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-06-02T07:41:46+00:00",
+      "creators": ["117369720697426009775"],
+      "description": "",
+      "effective": "2024-06-02T09:41:50",
+      "egindako_eguna": "2024-05-29",
+      "egoera": {
+        "title": "Proposatutakoa eginda",
+        "token": "proposatutakoa-eginda"
+      },
+      "eguna": "2024-05-29",
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "kike-astarloa",
+      "is_folderish": true,
+      "language": { "title": "Euskara", "token": "eu" },
+      "layout": "view",
+      "lock": { "locked": false, "stealable": true },
+      "mendia_igo_duena": "Kike Astarloa",
+      "mendizaleak": "Kike Astarloa\nJose Ignacio Arnaiz\nI\u00f1aki Ulazia\nRoberto Gomez\nJose Luis Morcil\nGuillermo Espallargas\nHamed",
+      "modified": "2024-06-02T11:30:57+00:00",
+      "next_item": {},
+      "oharrak": "",
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/jabal-tubqal",
+        "@type": "Mendia",
+        "altuera": 4167,
+        "created": "2024-06-02T07:41:09+00:00",
+        "creators": ["106932265020763600836"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": null,
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": "31.0598318",
+        "lon": "-7.9149438",
+        "mendizerra": "Atlas",
+        "review_state": "published",
+        "sektorea": "Maroko",
+        "title": "Jabal T\u016bbq\u0101l",
+        "type_title": "Mendia",
+        "zailtasuna": 1
+      },
+      "previous_item": {},
+      "review_state": "published",
+      "rights": "",
+      "subjects": [],
+      "title": "Kike Astarloa",
+      "type_title": "Igoera",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    }
+  ],
+  "items_total": 1,
+  "language": { "title": "Euskara", "token": "eu" },
+  "lat": "31.0598318",
+  "layout": "view",
+  "lock": { "locked": false, "stealable": true },
+  "lon": "-7.9149438",
+  "mendizerra": "Atlas",
+  "modified": "2024-06-02T07:42:46+00:00",
+  "next_item": {},
+  "osm_kodea": "87828608",
+  "parent": {
+    "@id": "https://312.deporeibar.com/mendiak",
+    "@type": "Document",
+    "altuera": null,
+    "created": "2024-02-19T19:25:17+00:00",
+    "creators": ["admin"],
+    "description": "",
+    "egoera_igoera": null,
+    "egoera_mendia": null,
+    "eguna": null,
+    "erreserbak": null,
+    "image_field": null,
+    "image_scales": {},
+    "lat": null,
+    "lon": null,
+    "mendizerra": null,
+    "review_state": "published",
+    "sektorea": null,
+    "title": "Mendiak",
+    "type_title": "Orria",
+    "zailtasuna": null
+  },
+  "previous_item": {},
+  "review_state": "published",
+  "rights": "",
+  "sektorea": "Maroko",
+  "subjects": [],
+  "title": "Jabal T\u016bbq\u0101l",
+  "type_title": "Mendia",
+  "version": "current",
+  "working_copy": null,
+  "working_copy_of": null,
+  "zailtasuna": 1
+}

@@ -1,18 +1,34 @@
 ---
 export interface Props {
-  latitude: number
-  longitude: number
-  zoom: number
+  latitude?: number;
+  longitude?: number;
+  zoom: number;
   /** the DOM ID of a <div> element */
-  container: string
+  container: string;
   /** https://leafletjs.com/reference.html#tilelayer */
-  tileLayer: string
+  tileLayer: string;
   /** Most tile servers require attribution. */
-  attribution: string
-  containerstyle?: string
+  attribution: string;
+  containerstyle?: string;
+  markers?: {
+    lat: number;
+    lon: number;
+    title: string;
+    url: string;
+    status: string;
+  }[];
 }
 
-const { latitude, longitude, zoom, container, tileLayer, attribution, containerstyle = "height: 61.8vh" } = Astro.props
+const {
+  latitude,
+  longitude,
+  zoom,
+  container,
+  tileLayer,
+  attribution,
+  containerstyle = 'height: 61.8vh',
+  markers,
+} = Astro.props;
 ---
 
 <leaflet-map
@@ -23,25 +39,78 @@ const { latitude, longitude, zoom, container, tileLayer, attribution, containers
   data-tiles={tileLayer}
   data-attribution={attribution}
   data-containerstyle={containerstyle}
+  data-markers={markers ? JSON.stringify(markers) : '[]'}
 >
-<div id={container} style={containerstyle}></div>
-<script>
-  import "leaflet/dist/leaflet"
-  import "leaflet/dist/leaflet.css"
+  <div id={container} style={containerstyle}></div>
+  <script>
+    import 'leaflet/dist/leaflet';
+    import 'leaflet/dist/leaflet.css';
 
-  class LeafletMap extends HTMLElement {
-    constructor() {
-      super()
+    class LeafletMap extends HTMLElement {
+      constructor() {
+        super();
 
-      const latlng = [Number(this.dataset.latitude), Number(this.dataset.longitude)]
+        const lat = this.dataset.latitude
+          ? Number(this.dataset.latitude)
+          : 43.0;
+        const lon = this.dataset.longitude
+          ? Number(this.dataset.longitude)
+          : -2.0;
 
-      var map = L.map(this.dataset.container).setView(latlng, Number(this.dataset.zoom))
-      L.tileLayer(
-        this.dataset.tiles,
-        {attribution: this.dataset.attribution}
-        ).addTo(map)
+        const latlng = [lat, lon];
+
+        var map = L.map(this.dataset.container).setView(
+          latlng,
+          Number(this.dataset.zoom),
+        );
+        L.tileLayer(this.dataset.tiles, {
+          attribution: this.dataset.attribution,
+        }).addTo(map);
+
+        const markers = JSON.parse(this.dataset.markers);
+        if (markers && markers.length > 0) {
+          // Tailwind klaseak egoeraren arabera.
+          const statusClasses = {
+            eginda: 'text-green-500',
+            'proposatutakoa-eginda': 'text-blue-500',
+            'egin-gabe': 'text-red-500',
+            'proposatutakoa-egin-gabe': 'text-red-500',
+            default: 'text-gray-500',
+          };
+
+          const createIcon = (cssClass) => {
+            const markerHtml = `<svg class="${cssClass}" viewBox="0 0 24 24" fill="currentColor" width="36" height="36" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>`;
+
+            return L.divIcon({
+              html: markerHtml,
+              className: '', // Leaflet-ek estiloak ez gainidazteko
+              iconSize: [36, 36],
+              iconAnchor: [18, 36],
+              popupAnchor: [0, -36],
+            });
+          };
+
+          markers.forEach((markerData) => {
+            const cssClass =
+              statusClasses[markerData.status] || statusClasses.default;
+            const icon = createIcon(cssClass);
+
+            const marker = L.marker([markerData.lat, markerData.lon], {
+              icon: icon,
+            }).addTo(map);
+
+            if (markerData.title && markerData.url) {
+              marker.bindPopup(
+                `<a href="${markerData.url}">${markerData.title}</a>`,
+              );
+            }
+          });
+        } else if (this.dataset.latitude && this.dataset.longitude) {
+          L.marker(latlng).addTo(map);
+        }
+      }
     }
-  }
 
-  window.customElements.define("leaflet-map", LeafletMap);
-</script>
+    window.customElements.define('leaflet-map', LeafletMap);
+  </script>
+</leaflet-map>

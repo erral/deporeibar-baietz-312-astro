@@ -1,0 +1,29 @@
+---
+import Leaflet from '../../components/Leaflet.astro';
+import Layout from '../../layouts/Layout.astro';
+
+import mountains from '../../contents/mountains';
+
+const markers = Object.values(mountains).map((mountain) => {
+  if (!Number(mountain.lat) || !Number(mountain.lon)) {
+    return;
+  }
+  return {
+    lat: mountain.lat,
+    lon: mountain.lon,
+    title: mountain.title,
+    status: mountain.egoera,
+    url: `/mendiak/${mountain.id}/`,
+  };
+});
+---
+
+<Layout title={`Mapa - Baietz 312!`}>
+  <Leaflet
+    container="allmountainsmap"
+    zoom={8}
+    tileLayer="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+    attribution="© <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors"
+    markers={markers}
+  />
+</Layout>

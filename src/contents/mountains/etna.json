@@ -1,1 +1,164 @@
-{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/etna/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/etna/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/etna/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/etna/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/etna/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/etna/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/etna/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/etna/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/etna", "@type": "Mendia", "UID": "4c65df2f27df4d6493bb151d0e46c8ff", "allow_discussion": false, "altuera": 3357, "beste_izenak": null, "contributors": [], "created": "2024-06-14T18:22:03+00:00", "creators": ["106932265020763600836"], "description": "", "effective": "2024-06-14T20:22:09", "egoera": "proposatutakoa", "exclude_from_nav": false, "expires": null, "id": "etna", "image": null, "image_caption": null, "is_folderish": true, "items": [{"@components": {"actions": {"@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@actions"}, "aliases": {"@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@aliases"}, "breadcrumbs": {"@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@breadcrumbs"}, "contextnavigation": {"@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@contextnavigation"}, "navigation": {"@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@navigation"}, "navroot": {"@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@navroot"}, "types": {"@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@types"}, "workflow": {"@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@workflow"}}, "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi", "@type": "Igoera", "UID": "37b9f8b1ee974eabaffef6b88e5d1467", "allow_discussion": false, "contributors": [], "created": "2024-06-14T18:22:35+00:00", "creators": ["114275462225460892734"], "description": "", "effective": "2024-06-14T20:22:42", "egindako_eguna": null, "egoera": {"title": "Proposatutakoa", "token": "proposatutakoa"}, "eguna": "2024-06-28", "exclude_from_nav": false, "expires": null, "id": "aitor-arroitajauregi", "is_folderish": true, "language": {"title": "Euskara", "token": "eu"}, "layout": "view", "lock": {"locked": false, "stealable": true}, "mendia_igo_duena": "Aitor Arroitajauregi", "mendizaleak": "Aitor Arroitajauregi", "modified": "2024-11-06T18:55:33+00:00", "next_item": {}, "oharrak": null, "parent": {"@id": "https://312.deporeibar.com/mendiak/etna", "@type": "Mendia", "altuera": 3357, "created": "2024-06-14T18:22:03+00:00", "creators": ["106932265020763600836"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": null, "erreserbak": null, "image_field": null, "image_scales": {}, "lat": "37.7510251,", "lon": "14.9940321", "mendizerra": "Italia", "review_state": "published", "sektorea": "Sizilia", "title": "Etna", "type_title": "Mendia", "zailtasuna": 1}, "previous_item": {}, "review_state": "published", "rights": "", "subjects": [], "title": "Aitor Arroitajauregi", "type_title": "Igoera", "version": "current", "working_copy": null, "working_copy_of": null}], "items_total": 1, "language": {"title": "Euskara", "token": "eu"}, "lat": "37.7510251,", "layout": "view", "lock": {"locked": false, "stealable": true}, "lon": "14.9940321", "mendizerra": "Italia", "modified": "2024-06-14T18:22:35+00:00", "next_item": {}, "osm_kodea": "58999222", "parent": {"@id": "https://312.deporeibar.com/mendiak", "@type": "Document", "altuera": null, "created": "2024-02-19T19:25:17+00:00", "creators": ["admin"], "description": "", "egoera_igoera": null, "egoera_mendia": null, "eguna": null, "erreserbak": null, "image_field": null, "image_scales": {}, "lat": null, "lon": null, "mendizerra": null, "review_state": "published", "sektorea": null, "title": "Mendiak", "type_title": "Orria", "zailtasuna": null}, "previous_item": {}, "review_state": "published", "rights": "", "sektorea": "Sizilia", "subjects": [], "title": "Etna", "type_title": "Mendia", "version": "current", "working_copy": null, "working_copy_of": null, "zailtasuna": 1}
+{
+  "@components": {
+    "actions": { "@id": "https://312.deporeibar.com/mendiak/etna/@actions" },
+    "aliases": { "@id": "https://312.deporeibar.com/mendiak/etna/@aliases" },
+    "breadcrumbs": {
+      "@id": "https://312.deporeibar.com/mendiak/etna/@breadcrumbs"
+    },
+    "contextnavigation": {
+      "@id": "https://312.deporeibar.com/mendiak/etna/@contextnavigation"
+    },
+    "navigation": {
+      "@id": "https://312.deporeibar.com/mendiak/etna/@navigation"
+    },
+    "navroot": { "@id": "https://312.deporeibar.com/mendiak/etna/@navroot" },
+    "types": { "@id": "https://312.deporeibar.com/mendiak/etna/@types" },
+    "workflow": { "@id": "https://312.deporeibar.com/mendiak/etna/@workflow" }
+  },
+  "@id": "https://312.deporeibar.com/mendiak/etna",
+  "@type": "Mendia",
+  "UID": "4c65df2f27df4d6493bb151d0e46c8ff",
+  "allow_discussion": false,
+  "altuera": 3357,
+  "beste_izenak": null,
+  "contributors": [],
+  "created": "2024-06-14T18:22:03+00:00",
+  "creators": ["106932265020763600836"],
+  "description": "",
+  "effective": "2024-06-14T20:22:09",
+  "egoera": "proposatutakoa",
+  "exclude_from_nav": false,
+  "expires": null,
+  "id": "etna",
+  "image": null,
+  "image_caption": null,
+  "is_folderish": true,
+  "items": [
+    {
+      "@components": {
+        "actions": {
+          "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@actions"
+        },
+        "aliases": {
+          "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@aliases"
+        },
+        "breadcrumbs": {
+          "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@breadcrumbs"
+        },
+        "contextnavigation": {
+          "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@contextnavigation"
+        },
+        "navigation": {
+          "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@navigation"
+        },
+        "navroot": {
+          "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@navroot"
+        },
+        "types": {
+          "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@types"
+        },
+        "workflow": {
+          "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi/@workflow"
+        }
+      },
+      "@id": "https://312.deporeibar.com/mendiak/etna/aitor-arroitajauregi",
+      "@type": "Igoera",
+      "UID": "37b9f8b1ee974eabaffef6b88e5d1467",
+      "allow_discussion": false,
+      "contributors": [],
+      "created": "2024-06-14T18:22:35+00:00",
+      "creators": ["114275462225460892734"],
+      "description": "",
+      "effective": "2024-06-14T20:22:42",
+      "egindako_eguna": null,
+      "egoera": { "title": "Proposatutakoa", "token": "proposatutakoa" },
+      "eguna": "2024-06-28",
+      "exclude_from_nav": false,
+      "expires": null,
+      "id": "aitor-arroitajauregi",
+      "is_folderish": true,
+      "language": { "title": "Euskara", "token": "eu" },
+      "layout": "view",
+      "lock": { "locked": false, "stealable": true },
+      "mendia_igo_duena": "Aitor Arroitajauregi",
+      "mendizaleak": "Aitor Arroitajauregi",
+      "modified": "2024-11-06T18:55:33+00:00",
+      "next_item": {},
+      "oharrak": null,
+      "parent": {
+        "@id": "https://312.deporeibar.com/mendiak/etna",
+        "@type": "Mendia",
+        "altuera": 3357,
+        "created": "2024-06-14T18:22:03+00:00",
+        "creators": ["106932265020763600836"],
+        "description": "",
+        "egoera_igoera": null,
+        "egoera_mendia": null,
+        "eguna": null,
+        "erreserbak": null,
+        "image_field": null,
+        "image_scales": {},
+        "lat": "37.7510251",
+        "lon": "14.9940321",
+        "mendizerra": "Italia",
+        "review_state": "published",
+        "sektorea": "Sizilia",
+        "title": "Etna",
+        "type_title": "Mendia",
+        "zailtasuna": 1
+      },
+      "previous_item": {},
+      "review_state": "published",
+      "rights": "",
+      "subjects": [],
+      "title": "Aitor Arroitajauregi",
+      "type_title": "Igoera",
+      "version": "current",
+      "working_copy": null,
+      "working_copy_of": null
+    }
+  ],
+  "items_total": 1,
+  "language": { "title": "Euskara", "token": "eu" },
+  "lat": "37.7510251",
+  "layout": "view",
+  "lock": { "locked": false, "stealable": true },
+  "lon": "14.9940321",
+  "mendizerra": "Italia",
+  "modified": "2024-06-14T18:22:35+00:00",
+  "next_item": {},
+  "osm_kodea": "58999222",
+  "parent": {
+    "@id": "https://312.deporeibar.com/mendiak",
+    "@type": "Document",
+    "altuera": null,
+    "created": "2024-02-19T19:25:17+00:00",
+    "creators": ["admin"],
+    "description": "",
+    "egoera_igoera": null,
+    "egoera_mendia": null,
+    "eguna": null,
+    "erreserbak": null,
+    "image_field": null,
+    "image_scales": {},
+    "lat": null,
+    "lon": null,
+    "mendizerra": null,
+    "review_state": "published",
+    "sektorea": null,
+    "title": "Mendiak",
+    "type_title": "Orria",
+    "zailtasuna": null
+  },
+  "previous_item": {},
+  "review_state": "published",
+  "rights": "",
+  "sektorea": "Sizilia",
+  "subjects": [],
+  "title": "Etna",
+  "type_title": "Mendia",
+  "version": "current",
+  "working_copy": null,
+  "working_copy_of": null,
+  "zailtasuna": 1
+}
