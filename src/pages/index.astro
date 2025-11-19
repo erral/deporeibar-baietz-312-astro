@@ -1,5 +1,70 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import ContentImage from '../components/ContentImage';
 ---
 
-<Layout> Ongi etorri! </Layout>
+<Layout title="Baietz 312 Mendi!">
+  <main class="px-4 py-12">
+    <div class="mx-auto max-w-5xl text-center">
+      <h1
+        class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl"
+      >
+        Ongi etorri <span class="text-blue-600 dark:text-blue-500"
+          >Baietz 312!</span
+        > erronkara
+      </h1>
+
+      <div
+        class="mt-10 grid grid-cols-1 gap-x-8 gap-y-10 text-left md:grid-cols-2"
+      >
+        <div class="text-lg leading-8 text-gray-700 dark:text-gray-200">
+          <h2 class="font-semibold text-gray-900 dark:text-white">Euskaraz</h2>
+          <p class="mt-2">
+            Proiektu honen helburua 312 mendi esanguratsu igotzea da, gure
+            geografia eta kultura mendiz-mendi ezagutuz. Webgune honetan,
+            erronka osatzen duten mendien zerrenda osoa aurkituko duzu,
+            bakoitzaren informazioarekin eta kokapenarekin. Gainera 2024ko
+            urtarrilaren 29an, Eibarko Klub Deportiboaren mendeurrenaren
+            egunaren bezperan, Urko argiztatu zuten 312 mendizaleei
+            erreferentzia egiteko modua da
+          </p>
+        </div>
+        <div class="text-lg leading-8 text-gray-700 dark:text-gray-200">
+          <h2 class="font-semibold text-gray-900 dark:text-white">
+            En castellano
+          </h2>
+          <p class="mt-2">
+            El objetivo de este proyecto es ascender 312 montañas significativas
+            conociendo nuestra geografía y cultura de monte en monte. En esta
+            web encontrarás la lista completa de las montañas que componen el
+            reto, con la información y ubicación de cada una. Además es una
+            forma de reconocer a los 312 montañeros que iluminaron Urko el 29 de
+            enero de 2024, la víspera del centenario del Club Deportivo Eibar.
+          </p>
+        </div>
+      </div>
+
+      <div class="mt-12 flex justify-center">
+        <ContentImage
+          sizes="80vw"
+          image="josu-urko-image"
+          alt="Urko argiztatzen, 2024-01-29. Argazkia: Josu Torrealday"
+          widths={[32, 64, 128, 200, 400, 600, 800, 1000, 1200, 1600, 3543]}
+        />
+      </div>
+
+      <div class="mt-12 flex items-center justify-center gap-x-6">
+        <a
+          href="/mendiak"
+          class="rounded-md bg-blue-600 px-4 py-3 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
+          >Ikusi mendien zerrenda</a
+        >
+        <a
+          href="/mapa"
+          class="text-sm font-semibold leading-6 text-gray-900 dark:text-white"
+          >Ikusi mapa <span aria-hidden="true">→</span></a
+        >
+      </div>
+    </div>
+  </main>
+</Layout>
