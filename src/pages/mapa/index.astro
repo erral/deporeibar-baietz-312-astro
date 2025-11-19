@@ -4,18 +4,15 @@ import Layout from '../../layouts/Layout.astro';
 
 import mountains from '../../contents/mountains';
 
-const markers = Object.values(mountains).map((mountain) => {
-  if (!Number(mountain.lat) || !Number(mountain.lon)) {
-    return;
-  }
-  return {
-    lat: mountain.lat,
-    lon: mountain.lon,
+const markers = Object.values(mountains)
+  .filter((mountain) => mountain.lat && mountain.lon)
+  .map((mountain) => ({
+    lat: Number(mountain.lat),
+    lon: Number(mountain.lon),
     title: mountain.title,
-    status: mountain.egoera,
+    status: mountain.egoera, // Zure datuetan 'egoera' da
     url: `/mendiak/${mountain.id}/`,
-  };
-});
+  }));
 ---
 
 <Layout title={`Mapa - Baietz 312!`}>

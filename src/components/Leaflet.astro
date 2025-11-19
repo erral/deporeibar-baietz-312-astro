@@ -43,6 +43,20 @@ const {
 >
   <div id={container} style={containerstyle}></div>
   <script>
+    // Leaflet-en ikono lehenetsien irudiak zuzen kargatzeko.
+    // Vite/Astro-rekin beharrezkoa da bideak eskuz konfiguratzea.
+    import L from 'leaflet';
+    import iconUrl from 'leaflet/dist/images/marker-icon.png';
+    import iconRetinaUrl from 'leaflet/dist/images/marker-icon-2x.png';
+    import shadowUrl from 'leaflet/dist/images/marker-shadow.png';
+
+    L.Icon.Default.imagePath = ''; // Bideak eskuz kudeatuko ditugu
+    L.Icon.Default.mergeOptions({
+      iconUrl: iconUrl.src,
+      iconRetinaUrl: iconRetinaUrl.src,
+      shadowUrl: shadowUrl.src,
+    });
+
     import 'leaflet/dist/leaflet';
     import 'leaflet/dist/leaflet.css';
 
@@ -67,35 +81,56 @@ const {
           attribution: this.dataset.attribution,
         }).addTo(map);
 
-        const markers = JSON.parse(this.dataset.markers);
+        const markers = JSON.parse(this.dataset.markers).filter(
+          (m) => m !== null,
+        );
         if (markers && markers.length > 0) {
           // Tailwind klaseak egoeraren arabera.
-          const statusClasses = {
-            eginda: 'text-green-500',
-            'proposatutakoa-eginda': 'text-blue-500',
-            'egin-gabe': 'text-red-500',
-            'proposatutakoa-egin-gabe': 'text-red-500',
-            default: 'text-gray-500',
+          // Orain CSS iragazkiak erabiliko ditugu koloreak aldatzeko.
+          // `hue-rotate` balioekin jolas dezakezu koloreak doitzeko.
+          const statusFilters = {
+            // Oharra: Leaflet-en jatorrizko kolorea urdina da (hue ~197deg).
+            eginda: 'hue-rotate(-80deg) saturate(2.5) brightness(0.9)', // Berdea
+            'proposatutakoa-eginda': 'hue-rotate(0deg)', // Horia
+            'egin-gabe': 'hue-rotate(160deg) saturate(3) brightness(0.9)', // Gorria
+            'proposatutakoa-egin-gabe':
+              'hue-rotate(160deg) saturate(3) brightness(0.9)', // Gorri bizia
+            default: 'hue-rotate(0deg)', // Urdina (jatorrizkoa)
           };
 
-          const createIcon = (cssClass) => {
-            const markerHtml = `<svg class="${cssClass}" viewBox="0 0 24 24" fill="currentColor" width="36" height="36" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>`;
+          // Estiloak dokumentuaren <head> atalean txertatzeko funtzioa
+          const addStyle = (css) => {
+            const style =
+              document.getElementById('leaflet-custom-styles') ||
+              document.createElement('style');
+            style.id = 'leaflet-custom-styles';
+            style.textContent += css;
+            document.head.appendChild(style);
+          };
 
-            return L.divIcon({
-              html: markerHtml,
-              className: '', // Leaflet-ek estiloak ez gainidazteko
-              iconSize: [36, 36],
-              iconAnchor: [18, 36],
-              popupAnchor: [0, -36],
-            });
+          // Sortu ikono pertsonalizatuak
+          const createIcon = (status) => {
+            const filter = statusFilters[status] || statusFilters.default;
+            const className = `leaflet-marker-icon-${status}`;
+
+            // Gehitu CSS klasea behin bakarrik
+            if (!document.querySelector(`.${className}`)) {
+              addStyle(`.${className} { filter: ${filter}; }`);
+            }
+
+            return new L.Icon.Default({ className: className });
           };
 
           markers.forEach((markerData) => {
-            const cssClass =
-              statusClasses[markerData.status] || statusClasses.default;
-            const icon = createIcon(cssClass);
+            // Koordenatuak zenbakiak direla ziurtatu
+            const lat = Number(markerData.lat);
+            const lon = Number(markerData.lon);
 
-            const marker = L.marker([markerData.lat, markerData.lon], {
+            if (isNaN(lat) || isNaN(lon)) return;
+
+            const icon = createIcon(markerData.status);
+
+            const marker = L.marker([lat, lon], {
               icon: icon,
             }).addTo(map);
 

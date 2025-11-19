@@ -24,7 +24,7 @@ const Image = (props) => {
     <img
       className={className}
       alt={alt}
-      srcset={srcset.join(',')}
+      srcSet={srcset.join(',')}
       sizes={sizes}
       loading="lazy"
       decoding="async"
